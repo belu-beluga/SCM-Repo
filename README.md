@@ -43,23 +43,24 @@ Welcome to the Recipe Sharing Platform! This project is a web-based application 
 
 Recipe Sharing Platform/
 │
-├── Pictures/ # Folder containing images used in recipes
+├── Pictures/                # Folder containing images used in recipes
 │
-├── css/ # Folder containing CSS files
-│ └── styles3.css # Main CSS stylesheet
+├── css/                     # Folder containing CSS files
+│   └── styles3.css          # Main CSS stylesheet
 │
-├── js/ # Folder containing JavaScript files
+├── js/                      # Folder containing JavaScript files
 │
-├── .gitignore # Git ignore file
+├── .gitignore               # Git ignore file
 │
-├── about.html # About page
-├── addmorerecipe.html # Page to add more recipes
-├── homepage.html # Homepage of the platform
-├── login2.html # Login page
-├── recipe-page.html # Individual recipe page
-├── recipeAdding.html # Page to add a new recipe
-├── signin.html # Sign-in page
-├── signup.html # Sign-up page
+├── about.html               # About page
+├── addmorerecipe.html       # Page to add more recipes
+├── homepage.html            # Homepage of the platform
+├── login2.html              # Login page
+├── recipe-page.html         # Individual recipe page
+├── recipeAdding.html        # Page to add a new recipe
+├── signin.html              # Sign-in page
+└── signup.html              # Sign-up page
+```
 
 
 
