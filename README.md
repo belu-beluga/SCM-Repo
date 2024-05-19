@@ -14,6 +14,37 @@ Welcome to the Recipe Sharing Platform! This project is a web-based application 
 | [Contributing](#contributing)   | Guidelines for contributing to the project               |
 | [License](#license)             | Licensing information                                    |
 
+
+# Commit History
+
+| Date & Time (IST)       | Commit Message                                               | Feature                                   |
+|-------------------------|--------------------------------------------------------------|-------------------------------------------|
+| 2024-05-06 00:11:23     | Merge branch 'main' of https://github.com/Jatin052/Recipe-Sharing-Platform | Merged changes from remote repository     |
+| 2024-05-06 00:07:12     | added addmorerecipe page in testBranch2                      | Added addmorerecipe.html                  |
+| 2024-05-06 00:00:14     | added signup page in testBranch1                             | Added signup.html                         |
+| 2024-05-05 23:52:27     | added new css file                                           | Added styles3.css                         |
+| 2024-05-05 19:52:39     | Updated login page to final version                          | Finalized login2.html                     |
+| 2024-05-05 19:24:30     | Added version 1 of login2.html                               | Initial version of login2.html            |
+| 2024-05-05 01:14:21     | Deleted extra files                                          | Cleaned up repository                     |
+| 2024-05-05 01:12:12     | created a separate folder for sorting js files               | Organized JavaScript files                |
+| 2024-05-05 01:07:47     | deleted extra files                                          | Cleaned up repository                     |
+| 2024-05-05 01:05:48     | added new folder for sorting css files                       | Organized CSS files                       |
+| 2024-05-05 00:59:35     | Added css file for recipeAdding                              | Added CSS for recipeAdding.html           |
+| 2024-05-05 00:54:52     | added a separate js file for recipe adding                   | Added JavaScript for recipeAdding.html    |
+| 2024-05-05 00:51:26     | Added new file for adding recipes                            | Added recipeAdding.html                   |
+| 2024-05-05 00:40:03     | Added a separate file for javascript for recipe-add page     | Organized JavaScript for recipe adding    |
+| 2024-05-05 00:32:44     | Updated Homepage file after new features                     | Updated homepage.html                     |
+| 2024-05-05 00:18:40     | Added Signin Page in project                                 | Added signin.html                         |
+| 2024-05-04 23:53:01     | added css file for page.html                                 | Added CSS for recipe-page.html            |
+| 2024-05-04 16:52:01     | Ignored extra files using .gitignore                         | Updated .gitignore file                   |
+| 2024-05-04 16:27:28     | Added about us page in new banch 'branch1'                   | Added about.html                          |
+| 2024-05-04 16:00:35     | added pages for recipes                                      | Added initial recipe pages                |
+| 2024-05-03 11:29:15     | added a separate file for styles                             | Organized stylesheets                     |
+| 2024-05-02 21:40:12     | Added a new folder for pictures                              | Organized images                          |
+| 2024-05-02 21:29:32     | Added styles in my homepage to improve project               | Updated homepage styles                   |
+| 2024-04-28 14:47:21     | Initial commit                                               | Project initialization                    |
+| 2024-04-28 14:43:10     | Added homepage to my project                                 | Added homepage.html                       |
+
 ## Features
 
 - **User Authentication:**
